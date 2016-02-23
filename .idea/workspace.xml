@@ -1,7 +1,797 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="314b6340-9ca5-42a2-a1c0-56251c928a13" name="Default" comment="" />
+    <list default="true" id="314b6340-9ca5-42a2-a1c0-56251c928a13" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/allclasses-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/allclasses-noframe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.AIMGrade.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.AIMGradeReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.AVIInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.Annulus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ArcInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ArcInfo2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.AttenuateMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.AxisOrientation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.AxisReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.BCGOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.Barcode2DCellShape.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.Barcode2DContrast.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.Barcode2DInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.Barcode2DSearchMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.Barcode2DShape.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.Barcode2DType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.BarcodeInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.BarcodeType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.BestCircle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.BestCircle2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.BestEllipse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.BestEllipse2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.BestLine.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.BorderMethod.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.BrowserFrameStyle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.BrowserLocation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.BrowserOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ButtonLabel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CIELabValue.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CIEXYZValue.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CalibrationAxisInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CalibrationInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CalibrationLearnSetupInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CalibrationMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CalibrationMode2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CalibrationPoints.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CalibrationROI.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CalibrationReferencePoints.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CalibrationThumbnailType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CalibrationUnit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CaliperOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CaliperReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CaliperToolResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CannyOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CharInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CharInfo2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CharReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CharReport2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CharReport3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CharSet.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CharacterStatistics.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CircleDescriptor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CircleFeature.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CircleFitOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CircleMatch.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CircleReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ClampMax2Report.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ClampOverlaySettings.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ClampPoints.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ClampResults.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ClampSettings.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ClassScore.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ClassifiedCurve.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ClassifiedDisparity.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ClassifierAccuracyReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ClassifierEngineType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ClassifierReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ClassifierReportAdvanced.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ClassifierSampleInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ClassifierSession.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ClassifierType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ClassifyDistancesReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ClosedContour.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ClosedCurveFeature.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ColorClassificationResolution.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ColorHistogramReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ColorIgnoreMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ColorInformation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ColorMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ColorOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ColorSegmenationOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ColorSensitivity.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ColumnProcessingMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ComparisonFunction.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.Complex.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ComplexPlane.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CompressionType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ComputeDistancesReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ConcentricEdgeFitOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ConcentricRake2Result.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ConcentricRakeDirection.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ConcentricRakeReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ConcentricRakeReport2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ConnectionConstraint.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ConnectionConstraintType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.Connectivity.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ConstCurveFeature.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ConstructROIOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ConstructROIOptions2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ContourComputeCurvatureReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ContourFitLineReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ContourFitPolynomialReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ContourFitSplineReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ContourInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ContourInfo2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ContourInfoReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ContourOverlaySettings.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ContourPoint.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ContourSetupMatchPatternResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ContourType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ContrastMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CooccurrenceOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CoordinateSystem.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CoordinateTransform.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CoordinateTransform2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CornerFeature.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CurvatureAnalysisReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.Curve.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CurveOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.CurveParameters.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DataMatrixCellFillMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DataMatrixCellFilterMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DataMatrixCellSampleSize.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DataMatrixDemodulationMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DataMatrixDescriptionOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DataMatrixECC.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DataMatrixGradingMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DataMatrixMirrorMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DataMatrixOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DataMatrixPolarity.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DataMatrixReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DataMatrixRotationMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DataMatrixSearchOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DataMatrixSizeOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DataMatrixSubtype.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DetectCirclesResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DetectEllipsesResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DetectExtremesOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DetectExtremesResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DetectLinesResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DetectRectanglesResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DetectionMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.Direction3D.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.Disparity.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DisplacementVector.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DisplayMapping.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DistortionModel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DistortionModelParams.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DivisionModel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DrawMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.DrawTextOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.EdgeFilterSize.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.EdgeInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.EdgeLocationReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.EdgeOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.EdgeOptions2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.EdgePolarity.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.EdgePolaritySearchMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.EdgeProcess.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.EdgeReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.EdgeReport2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.EdgeTool4Result.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.EllipseDescriptor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.EllipseFeature.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.EllipseMatch.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.EnumerateCustomKeysResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ErrorStatistics.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ExtractContourDirection.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ExtractContourReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ExtractContourResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ExtractContourSelection.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ExtractCurvesResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ExtractTextureFeaturesReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ExtractionMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ExtremeReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.FeatureData.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.FeatureType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.FindCirclesResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.FindCircularEdgeOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.FindCircularEdgeReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.FindConcentricEdgeOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.FindConcentricEdgeReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.FindEdgeOptions2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.FindEdgeReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.FindReferenceDirection.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.FindTransformMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.FindTransformRect2Result.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.FindTransformRectOptions2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.FindTransformRects2Result.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.FindTransformRectsOptions2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.FitCircleOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.FitEllipseOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.FitLineOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.FlattenType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.FlipAxis.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.FocalLength.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.FontColor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.GeometricAdvancedSetupDataOption.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.GeometricMatchingMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.GeometricMatchingSearchStrategy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.GeometricPatternMatch.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.GeometricPatternMatch2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.GeometricPatternMatch3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.GeometricSetupDataItem.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.GetBisectingLineResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.GetCalibrationInfoReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.GetCameraParametersReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.GetClassifierSampleInfoResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.GetFileInfoResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.GetGeometricFeaturesFromCurvesResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.GetGeometricTemplateFeatureInfoResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.GetImageSizeResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.GetMidLineResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.GetParticleClassifierOptions2Result.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.GetParticleClassifierOptionsResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.GetPerpendicularLineResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.GetPointsOnContourResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.GetPointsOnLineResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.GridDescriptor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.GroupBehavior.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.HSIValue.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.HSLValue.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.HSVValue.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.HistogramReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.IMAQdxAttributeInformation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.IMAQdxAttributeType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.IMAQdxAttributeVisibility.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.IMAQdxBayerAlgorithm.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.IMAQdxBayerPattern.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.IMAQdxBufferNumberMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.IMAQdxBusType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.IMAQdxCameraControlMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.IMAQdxCameraFile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.IMAQdxCameraInformation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.IMAQdxDestinationMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.IMAQdxEnumItem.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.IMAQdxIncompleteBufferMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.IMAQdxInterfaceFileFlags.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.IMAQdxLostPacketMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.IMAQdxOutputImageType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.IMAQdxOverwriteMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.IMAQdxPixelSignedness.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.IMAQdxPnpEvent.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.IMAQdxStreamChannelMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.IMAQdxUSBConnectionSpeed.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.IMAQdxValueType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.Image.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ImageFeatureMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ImageInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ImageSize.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ImageType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.InspectionAlignment.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.InspectionOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.InternalParameters.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.InterpolatePointsResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.InterpolationMethod.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.JPEG2000FileAdvancedOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.KernelFamily.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.LCDOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.LCDReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.LCDSegments.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.LabelToROIReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.LearnCalibrationOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.LearnColorPatternOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.LearnGeometricPatternAdvancedOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.LearnGeometricPatternAdvancedOptions2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.LearnPatternAdvancedOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.LearnPatternAdvancedRotationOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.LearnPatternAdvancedShiftOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.LearningMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.LegFeature.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.LevelType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.Line.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.LineDescriptor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.LineEquation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.LineFeature.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.LineFloat.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.LineGaugeMethod.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.LineMatch.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.LineProfile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.LinearAverages.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.LinearAveragesMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.LocalThresholdMethod.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MappingMethod.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MaskToROIResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MatchColorPatternOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MatchColorPatternResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MatchColorResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MatchGeometricPattern2Result.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MatchGeometricPattern3Result.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MatchGeometricPatternAdvancedOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MatchGeometricPatternAdvancedOptions2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MatchGeometricPatternAdvancedOptions3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MatchGeometricPatternOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MatchMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MatchMultipleGeometricPatternsResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MatchPattern2Result.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MatchPattern3Result.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MatchPatternAdvancedOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MatchPatternOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MatchShapeResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MatchingMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MathTransformMethod.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MaxGridSize.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MeasureParticlesCalibrationMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MeasureParticlesReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MeasurementType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MeasurementValue.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MeterArc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MeterArcMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MorphologyMethod.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MorphologyReconstructOperation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MulticoreOperation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.MultipleGeometricPattern.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.NearestNeighborClassResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.NearestNeighborMethod.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.NearestNeighborMetric.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.NearestNeighborOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.NearestNeighborTrainingReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.NormalizationMethod.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.OCRProcessingOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.OCRSpacingOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ObjectType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.OpenContour.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.OutlineMethod.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.Overlay.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.OverlayTextOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.PairOfParallelLinePairsFeature.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.PaletteType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ParallelLinePairFeature.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.PartialCircle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.PartialEllipse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ParticleClassifierAutoThresholdOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ParticleClassifierLocalThresholdOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ParticleClassifierOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ParticleClassifierPreprocessingOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ParticleClassifierPreprocessingOptions2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ParticleClassifierThresholdType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ParticleClassifierType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ParticleFilterCriteria.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ParticleFilterCriteria2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ParticleFilterOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ParticleFilterOptions2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ParticleInfoMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ParticleReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ParticleType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.PatternMatch.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.PhotometricMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.Plane3D.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.Point.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.PointDouble.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.PointDoublePair.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.PointFloat.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.PointSymbol.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.PolarityType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.PolyModel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.QRCellFilterMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.QRCellSampleSize.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.QRCodeDataToken.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.QRCodeDescriptionOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.QRCodeReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.QRCodeSearchOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.QRCodeSizeOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.QRDemodulationMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.QRDimensions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.QRGradingMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.QRMirrorMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.QRModelType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.QRPolarities.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.QRRotationMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.QRStreamMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.QuantifyData.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.QuantifyReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.RGBU64Value.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.RGBValue.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ROI.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ROILabel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ROIProfile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.Rake2Result.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.RakeDirection.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.RakeOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.RakeProcessType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.RakeReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.RakeReport2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.Range.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.RangeDouble.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.RangeFloat.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.RangeLabel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.RangeSettingDouble.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.RawData.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ReadClassifierFileMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ReadClassifierFileResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ReadMeterResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ReadOCRFileResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ReadPDF417BarcodeResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ReadResolution.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ReadStrategy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ReadTextOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ReadTextReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ReadTextReport2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ReadTextReport3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ReadVisionFileResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.Rect.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.RectOrientation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.RectangleDescriptor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.RectangleFeature.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.RectangleMatch.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ReferenceMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.RefineMatchesResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.RegistrationMethod.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.RotatedRect.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.RotationAngleRange.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.RoundingMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.SampleScore.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ScalingMethod.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ScalingMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.SearchArcInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.SearchDirection.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.SearchLineInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.SearchStrategy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.SegmentInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.SegmentationDistanceLevel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.SelectParticleCriteria.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.SettingType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.SetupMatchPatternData.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ShapeDetectionOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ShapeMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ShapeReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.SimpleEdgeOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.SimpleEdgeResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.SizeType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.SkeletonMethod.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.Spoke2Result.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.SpokeDirection.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.SpokeOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.SpokeReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.SpokeReport2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.StraightEdge.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.StraightEdgeOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.StraightEdgeReport2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.StraightEdgeSearchMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.StructuringElement.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.SupervisedColorSegmentationReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.TIFFCompressionType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.TIFFFileOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.TextAlignment.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ThresholdData.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ThresholdMethod.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ThresholdMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.Tool.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.ToolWindowOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.TransformBehaviors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.TransformReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.TruncateMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.TwoEdgePolarityType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.UserPointSymbol.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.VerifyTextResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.VerticalTextAlignment.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.View3DOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.VisionInfoType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.VisionInfoType2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.WaveletBandsReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.WaveletOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.WaveletTransformMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.WaveletType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.WindowBackgroundFillStyle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.WindowBackgroundHatchStyle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.WindowEventType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.WindowOptions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.WindowSize.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.WindowThreadPolicy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.WriteClassifierFileMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.dxEnumerateVideoModesResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/NIVision.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/VisionException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/com/ni/vision/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/constant-values.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/deprecated-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/ADXL345_I2C.AllAxes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/ADXL345_I2C.Axes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/ADXL345_I2C.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/ADXL345_SPI.AllAxes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/ADXL345_SPI.Axes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/ADXL345_SPI.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/ADXL362.AllAxes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/ADXL362.Axes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/ADXL362.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/ADXRS450_Gyro.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/AccumulatorResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/AnalogAccelerometer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/AnalogGyro.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/AnalogInput.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/AnalogOutput.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/AnalogPotentiometer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/AnalogTrigger.AnalogTriggerException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/AnalogTrigger.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/AnalogTriggerOutput.AnalogTriggerOutputException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/AnalogTriggerOutput.AnalogTriggerType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/AnalogTriggerOutput.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/BuiltInAccelerometer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/CANJaguar.JaguarControlMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/CANJaguar.LimitMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/CANJaguar.NeutralMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/CANJaguar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/CANSpeedController.ControlMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/CANSpeedController.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/CANTalon.FeedbackDevice.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/CANTalon.FeedbackDeviceStatus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/CANTalon.MotionProfileStatus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/CANTalon.SetValueMotionProfile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/CANTalon.StatusFrameRate.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/CANTalon.TalonControlMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/CANTalon.TrajectoryPoint.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/CANTalon.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/CameraServer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/CircularBuffer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Compressor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/ControllerPower.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Counter.Mode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Counter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/CounterBase.EncodingType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/CounterBase.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/DigitalGlitchFilter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/DigitalInput.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/DigitalOutput.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/DigitalSource.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/DoubleSolenoid.Value.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/DoubleSolenoid.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/DriverStation.Alliance.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/DriverStation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Encoder.IndexingType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Encoder.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/GearTooth.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/GenericHID.Hand.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/GenericHID.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/GyroBase.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/HLUsageReporting.Interface.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/HLUsageReporting.Null.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/HLUsageReporting.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/I2C.Port.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/I2C.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/InterruptHandlerFunction.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/InterruptableSensorBase.WaitResult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/InterruptableSensorBase.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/IterativeRobot.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Jaguar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Joystick.AxisType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Joystick.ButtonType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Joystick.RumbleType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Joystick.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/MotorSafety.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/MotorSafetyHelper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/NamedSendable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Notifier.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/PIDController.AbsoluteTolerance.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/PIDController.NullTolerance.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/PIDController.PercentageTolerance.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/PIDController.Tolerance.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/PIDController.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/PIDInterface.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/PIDOutput.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/PIDSource.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/PIDSourceType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/PWM.PeriodMultiplier.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/PWM.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/PowerDistributionPanel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Preferences.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Relay.Direction.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Relay.InvalidValueException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Relay.Value.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Relay.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Resource.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/RobotBase.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/RobotDrive.MotorType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/RobotDrive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/RobotState.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/SD540.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/SPI.Port.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/SPI.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/SafePWM.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/SampleRobot.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Sendable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/SensorBase.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/SerialPort.FlowControl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/SerialPort.Parity.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/SerialPort.Port.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/SerialPort.StopBits.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/SerialPort.WriteBufferMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/SerialPort.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Servo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Solenoid.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/SolenoidBase.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Spark.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/SpeedController.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Talon.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/TalonSRX.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Timer.Interface.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Timer.StaticInterface.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Timer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Ultrasonic.Unit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Ultrasonic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Utility.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/Victor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/VictorSP.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/buttons/Button.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/buttons/InternalButton.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/buttons/JoystickButton.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/buttons/NetworkButton.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/buttons/Trigger.ButtonScheduler.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/buttons/Trigger.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/buttons/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/buttons/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/buttons/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/can/CANExceptionFactory.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/can/CANInvalidBufferException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/can/CANJNI.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/can/CANJaguarVersionException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/can/CANMessageNotAllowedException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/can/CANMessageNotFoundException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/can/CANNotInitializedException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/can/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/can/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/can/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/command/Command.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/command/CommandGroup.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/command/IllegalUseOfCommandException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/command/PIDCommand.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/command/PIDSubsystem.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/command/PrintCommand.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/command/Scheduler.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/command/StartCommand.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/command/Subsystem.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/command/WaitCommand.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/command/WaitForChildren.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/command/WaitUntilCommand.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/command/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/command/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/command/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/communication/FRCNetworkCommunicationsLibrary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/communication/FRCNetworkCommunicationsLibrary.tInstances.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/communication/FRCNetworkCommunicationsLibrary.tModuleType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/communication/FRCNetworkCommunicationsLibrary.tResourceType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/communication/FRCNetworkCommunicationsLibrary.tTargetClass.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/communication/HALAllianceStationID.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/communication/HALControlWord.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/communication/NIRioStatus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/communication/UsageReporting.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/communication/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/communication/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/communication/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/filters/Filter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/filters/LinearDigitalFilter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/filters/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/filters/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/filters/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/hal/AccelerometerJNI.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/hal/AnalogJNI.AnalogTriggerType.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/hal/AnalogJNI.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/hal/CanTalonJNI.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/hal/CanTalonJNI.param_t.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/hal/CompressorJNI.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/hal/CounterJNI.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/hal/DIOJNI.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/hal/DigitalGlitchFilterJNI.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/hal/EncoderJNI.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/hal/HALUtil.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/hal/I2CJNI.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/hal/InterruptJNI.InterruptJNIHandlerFunction.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/hal/InterruptJNI.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/hal/JNIWrapper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/hal/NotifierJNI.NotifierJNIHandlerFunction.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/hal/NotifierJNI.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/hal/PDPJNI.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/hal/PWMJNI.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/hal/PowerJNI.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/hal/RelayJNI.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/hal/SPIJNI.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/hal/SerialPortJNI.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/hal/SolenoidJNI.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/hal/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/hal/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/hal/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/image/BinaryImage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/image/ColorImage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/image/HSLImage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/image/ImageBase.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/image/MonoImage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/image/NIVisionException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/image/ParticleAnalysisReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/image/RGBImage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/image/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/image/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/image/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/interfaces/Accelerometer.Range.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/interfaces/Accelerometer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/interfaces/Gyro.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/interfaces/Potentiometer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/interfaces/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/interfaces/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/interfaces/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/internal/HardwareHLUsageReporting.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/internal/HardwareTimer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/internal/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/internal/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/internal/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/livewindow/LiveWindow.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/livewindow/LiveWindowSendable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/livewindow/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/livewindow/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/livewindow/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/networktables/ConnectionInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/networktables/EntryInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/networktables/NetworkTable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/networktables/NetworkTableKeyNotDefined.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/networktables/NetworkTablesJNI.ConnectionListenerFunction.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/networktables/NetworkTablesJNI.EntryListenerFunction.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/networktables/NetworkTablesJNI.LoggerFunction.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/networktables/NetworkTablesJNI.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/networktables/PersistentException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/networktables/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/networktables/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/networktables/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/networktables2/type/ArrayData.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/networktables2/type/BooleanArray.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/networktables2/type/NumberArray.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/networktables2/type/StringArray.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/networktables2/type/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/networktables2/type/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/networktables2/type/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/smartdashboard/SendableChooser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/smartdashboard/SmartDashboard.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/smartdashboard/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/smartdashboard/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/smartdashboard/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/tables/IRemote.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/tables/IRemoteConnectionListener.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/tables/ITable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/tables/ITableListener.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/tables/TableKeyNotDefinedException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/tables/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/tables/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/tables/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/util/AllocationException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/util/BaseSystemNotInitializedException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/util/BoundaryException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/util/CheckedAllocationException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/util/SortedVector.Comparator.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/util/SortedVector.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/util/UncleanStatusException.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/util/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/util/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/util/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/vision/AxisCamera.ExposureControl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/vision/AxisCamera.Resolution.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/vision/AxisCamera.Rotation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/vision/AxisCamera.WhiteBalance.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/vision/AxisCamera.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/vision/USBCamera.WhiteBalance.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/vision/USBCamera.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/vision/package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/vision/package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/edu/wpi/first/wpilibj/vision/package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/help-doc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/index-all.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/overview-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/overview-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/overview-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/package-list" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/serialized-form.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/javadoc/stylesheet.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/lib/NetworkTables-sources.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/lib/NetworkTables.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/lib/SmartDashboard.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/lib/WPILib-sources.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wpilib/lib/WPILib.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitattributes" afterPath="$PROJECT_DIR$/.gitattributes" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LearnCV.iml" afterPath="$PROJECT_DIR$/LearnCV.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nottesla/learncv/Main.java" afterPath="$PROJECT_DIR$/src/com/nottesla/learncv/Main.java" />
+    </list>
     <ignored path="LearnCV.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,11 +815,9 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/nottesla/learncv/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31034482">
-              <caret line="15" column="79" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="79" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.062068965">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -488,7 +1276,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -498,7 +1286,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3078125" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3078125" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -540,9 +1328,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -566,9 +1352,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -584,9 +1368,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -602,9 +1384,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -612,9 +1392,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="72" column="58" selection-start-line="72" selection-start-column="50" selection-end-line="72" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -629,9 +1407,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -639,9 +1415,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="72" column="58" selection-start-line="72" selection-start-column="50" selection-end-line="72" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -656,9 +1430,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -843,11 +1615,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nottesla/learncv/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31034482">
-          <caret line="15" column="79" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="79" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.062068965">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -1,7 +1,6 @@
 package com.nottesla.learncv;
 
 import edu.wpi.first.wpijavacv.*;
-import org.bytedeco.javacv.OpenCVFrameConverter;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
@@ -12,7 +11,6 @@ import java.io.IOException;
 @author(Telsa)
  */
 public class Main {
-    static OpenCVFrameConverter.ToIplImage toIplImage = new OpenCVFrameConverter.ToIplImage();
     public static final String FOLDER = "/Users/tesla/Downloads/RealFullField";
 
     public static void main(String[] args) {
