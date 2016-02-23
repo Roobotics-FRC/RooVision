@@ -1,0 +1,72 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="LearnCV:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LearnCV_jar</output-path>
+    <root id="archive" name="LearnCV.jar">
+      <element id="module-output" name="LearnCV" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/ffmpeg.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/javacv.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/jinput.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/opencv.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/javacpp.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/flandmark.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/libdc1394.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/flycapture.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/videoinput.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/JNativeHook.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/libfreenect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/artoolkitplus.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/ffmpeg-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/opencv-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/ffmpeg-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/ffmpeg-android-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/ffmpeg-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/opencv-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/opencv-android-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/opencv-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/ffmpeg-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/flandmark-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/libdc1394-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/opencv-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/ffmpeg-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/flycapture-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/opencv-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/ffmpeg-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/flandmark-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/flandmark-android-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/flandmark-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/javacv-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/libfreenect-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/networktables-desktop.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/opencv-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/flandmark-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/flycapture-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/libdc1394-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/videoinput-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/artoolkitplus-linux-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/flandmark-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/flycapture-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/libdc1394-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/libfreenect-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/flandmark-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/libfreenect-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/artoolkitplus-android-arm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/artoolkitplus-android-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/artoolkitplus-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/flycapture-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/libfreenect-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/videoinput-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/artoolkitplus-linux-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/libfreenect-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/artoolkitplus-macosx-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/ffmpeg-2.1.1-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/opencv-2.4.8-windows-x86_64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/vision/artoolkitplus-windows-x86_64.jar" path-in-jar="/" />
+      <element id="library" level="project" name="javadoc" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/wpilib/lib/WPILib.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/wpilib/lib/NetworkTables.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/wpilib/lib/SmartDashboard.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/wpilib/lib/WPILib-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/wpilib/lib/NetworkTables-sources.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

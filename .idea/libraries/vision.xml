@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="vision">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/vision" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/vision" />
+    </NATIVE>
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/vision" recursive="false" />
+  </library>
+</component>
