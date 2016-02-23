@@ -1,12 +1,44 @@
-*.class
 
+# Crashlytics plugin (for Android Studio and IntelliJ)
+# Gradle:
+# IntelliJ
+# JIRA plugin
 # Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
+# Mongo Explorer plugin:
 # Package Files #
+# Sensitive or high-churn files:
+# User-specific stuff:
+# mpeltonen/sbt-idea plugin
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+## File-based project format:
+## Plugin-specific files:
+*.class
+*.ear
+*.iws
 *.jar
 *.war
-*.ear
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+.idea/
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/dictionaries
+.idea/dynamic.xml
+.idea/gradle.xml
+.idea/libraries
+.idea/mongoSettings.xml
+.idea/sqlDataSources.xml
+.idea/tasks.xml
+.idea/uiDesigner.xml
+.idea/workspace.xml
+.idea_modules/
+.mtj.tmp/
+/out/
+/out/*
+atlassian-ide-plugin.xml
+com_crashlytics_export_strings.xml
+crashlytics-build.properties
+crashlytics.properties
+dist/
+dist/FRCUserProgram.jar
+fabric.properties
 hs_err_pid*
+sysProps.xml
