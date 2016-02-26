@@ -17,6 +17,8 @@
 *.iws
 *.jar
 *.war
+/.idea/
+/.idea
 .idea/
 .idea/dataSources.ids
 .idea/dataSources.xml

@@ -28,7 +28,7 @@ public abstract class WPIMemoryPool extends WPIDisposable {
         validateDisposed();
         disposable.setPool(null);
         if (--remaining <= 0) {
-            dispose();
+//            dispose();
         }
     }
 }
