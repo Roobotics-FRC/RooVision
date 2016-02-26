@@ -63,7 +63,7 @@ public class Main {
         if (contours == null || contours.length == 0) {
             return;
         }
-        /* The contour highest up on the image (usually the goal), defaults to the first one */
+        /* The contour highest up on the image (usually the goal) */
         WPIContour highestContour = null;
         /* Iterate through contours */
         for (int i=0; i < contours.length; ++i) {
@@ -83,6 +83,11 @@ public class Main {
             }
             /* Ensure the height is more than 17 pixels */
             if (contour.getHeight() <= 17) {
+                continue;
+            }
+            /* If there is no highest contour yet, just use this one */
+            if (highestContour == null) {
+                highestContour = contour;
                 continue;
             }
             /* If it is higher up than the current highest contour, set the highest contour to this */
