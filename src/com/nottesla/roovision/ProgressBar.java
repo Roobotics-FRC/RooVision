@@ -1,4 +1,4 @@
-package com.nottesla.learncv;
+package com.nottesla.roovision;
 
 import javax.swing.*;
 import java.awt.*;
