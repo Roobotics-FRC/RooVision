@@ -2,7 +2,7 @@
   <artifact type="jar" build-on-make="true" name="LearnCV:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/LearnCV_jar</output-path>
     <root id="archive" name="LearnCV.jar">
-      <element id="module-output" name="LearnCV" />
+      <element id="module-output" name="RooVision" />
       <element id="extracted-dir" path="$PROJECT_DIR$/vision/ffmpeg.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/vision/javacv.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/vision/jinput.jar" path-in-jar="/" />

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LearnCV.iml" filepath="$PROJECT_DIR$/LearnCV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RooVision.iml" filepath="$PROJECT_DIR$/RooVision.iml" />
     </modules>
   </component>
 </project>

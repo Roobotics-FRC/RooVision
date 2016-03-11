@@ -12,12 +12,11 @@ public class VisionProcessor {
     private NetworkTable visionTable;
     private boolean debug = false;
     private CanvasFrame debugFrame;
+    private boolean networkTables;
 
     public VisionProcessor(WPIColorImage image) {
         this.image = image;
-        NetworkTable.setClientMode();
-        NetworkTable.setTeam(4373);
-        this.visionTable = NetworkTable.getTable("rooVision");
+        this.networkTables = false;
     }
 
     public VisionProcessor() {
@@ -98,6 +97,13 @@ public class VisionProcessor {
     }
 
     public void updateNetworkTables(WPIContour contour) {
+        if (!networkTables) {
+            NetworkTable.setTeam(4373);
+            NetworkTable.setClientMode();
+            this.visionTable = NetworkTable.getTable("rooVision");
+            System.out.println("*** " + this.visionTable + " ***");
+            networkTables = true;
+        }
         Target target = new Target(contour);
         WPIPoint offset = target.getOffsetOn(image);
         this.visionTable.putNumber("horizontal", offset.getX());
